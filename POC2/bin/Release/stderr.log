@@ -1,0 +1,38 @@
+
+Unhandled Exception:
+System.InvalidOperationException: The configuration is invalid. Creating the instance for type Container failed. The registered delegate for type Container threw an exception. Object reference not set to an instance of an object ---> SimpleInjector.ActivationException: The registered delegate for type Container threw an exception. Object reference not set to an instance of an object ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at System.Linq.Expressions.Expression.CreateLambda (System.Type delegateType, System.Linq.Expressions.Expression body, System.String name, Boolean tailCall, System.Collections.ObjectModel.ReadOnlyCollection`1 parameters) [0x00000] in <filename unknown>:0 
+  at System.Linq.Expressions.Expression.Lambda (System.Linq.Expressions.Expression body, System.String name, Boolean tailCall, IEnumerable`1 parameters) [0x00000] in <filename unknown>:0 
+  at System.Linq.Expressions.Expression.Lambda (System.Linq.Expressions.Expression body, Boolean tailCall, IEnumerable`1 parameters) [0x00000] in <filename unknown>:0 
+  at System.Linq.Expressions.Expression.Lambda (System.Linq.Expressions.Expression body, System.Linq.Expressions.ParameterExpression[] parameters) [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Lifestyles.SingletonLifestyle+SingletonInstanceLifestyleRegistration.GetInjectedInterceptedAndInitializedInstanceInternal () [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Lifestyles.SingletonLifestyle+SingletonInstanceLifestyleRegistration.GetInjectedInterceptedAndInitializedInstance () [0x00000] in <filename unknown>:0 
+  at System.Lazy`1[System.Object].InitValue () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at SimpleInjector.InstanceProducer.BuildExpression () [0x00000] in <filename unknown>:0 
+  at SimpleInjector.InstanceProducer.VerifyExpressionBuilding () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at SimpleInjector.InstanceProducer.VerifyExpressionBuilding () [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Container.VerifyThatAllExpressionsCanBeBuilt (SimpleInjector.InstanceProducer[] producersToVerify) [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Container.VerifyThatAllExpressionsCanBeBuilt () [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Container.Verify () [0x00000] in <filename unknown>:0 
+  at POC2.MainClass.RegisterDependencies () [0x00000] in <filename unknown>:0 
+  at POC2.MainClass.Main (System.String[] args) [0x00000] in <filename unknown>:0 
+[ERROR] FATAL UNHANDLED EXCEPTION: System.InvalidOperationException: The configuration is invalid. Creating the instance for type Container failed. The registered delegate for type Container threw an exception. Object reference not set to an instance of an object ---> SimpleInjector.ActivationException: The registered delegate for type Container threw an exception. Object reference not set to an instance of an object ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at System.Linq.Expressions.Expression.CreateLambda (System.Type delegateType, System.Linq.Expressions.Expression body, System.String name, Boolean tailCall, System.Collections.ObjectModel.ReadOnlyCollection`1 parameters) [0x00000] in <filename unknown>:0 
+  at System.Linq.Expressions.Expression.Lambda (System.Linq.Expressions.Expression body, System.String name, Boolean tailCall, IEnumerable`1 parameters) [0x00000] in <filename unknown>:0 
+  at System.Linq.Expressions.Expression.Lambda (System.Linq.Expressions.Expression body, Boolean tailCall, IEnumerable`1 parameters) [0x00000] in <filename unknown>:0 
+  at System.Linq.Expressions.Expression.Lambda (System.Linq.Expressions.Expression body, System.Linq.Expressions.ParameterExpression[] parameters) [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Lifestyles.SingletonLifestyle+SingletonInstanceLifestyleRegistration.GetInjectedInterceptedAndInitializedInstanceInternal () [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Lifestyles.SingletonLifestyle+SingletonInstanceLifestyleRegistration.GetInjectedInterceptedAndInitializedInstance () [0x00000] in <filename unknown>:0 
+  at System.Lazy`1[System.Object].InitValue () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at SimpleInjector.InstanceProducer.BuildExpression () [0x00000] in <filename unknown>:0 
+  at SimpleInjector.InstanceProducer.VerifyExpressionBuilding () [0x00000] in <filename unknown>:0 
+  --- End of inner exception stack trace ---
+  at SimpleInjector.InstanceProducer.VerifyExpressionBuilding () [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Container.VerifyThatAllExpressionsCanBeBuilt (SimpleInjector.InstanceProducer[] producersToVerify) [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Container.VerifyThatAllExpressionsCanBeBuilt () [0x00000] in <filename unknown>:0 
+  at SimpleInjector.Container.Verify () [0x00000] in <filename unknown>:0 
+  at POC2.MainClass.RegisterDependencies () [0x00000] in <filename unknown>:0 
+  at POC2.MainClass.Main (System.String[] args) [0x00000] in <filename unknown>:0 

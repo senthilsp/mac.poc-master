@@ -1,0 +1,11 @@
+/Users/admin/Downloads/mac.poc-master/UnitTest/obj/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/admin/Downloads/mac.poc-master/UnitTest/bin/Debug/UnitTest.dll.mdb
+/Users/admin/Downloads/mac.poc-master/UnitTest/bin/Debug/UnitTest.dll
+/Users/admin/Downloads/mac.poc-master/UnitTest/obj/Debug/UnitTest.dll
+/Users/admin/Downloads/mac.poc-master/UnitTest/obj/Debug/UnitTest.dll.mdb
+/Users/admin/Downloads/mac.poc-master/UnitTest/bin/Debug/nunit.framework.dll
+/Users/admin/Downloads/mac.poc-master/UnitTest/bin/Debug/ServiceClient.dll
+/Users/admin/Downloads/mac.poc-master/UnitTest/bin/Debug/ServiceClient.dll.mdb
+/Users/admin/Downloads/mac.poc-master/UnitTest/bin/Debug/POC2.exe
+/Users/admin/Downloads/mac.poc-master/UnitTest/bin/Debug/POC2.exe.mdb
+/Users/admin/Downloads/mac.poc-master/UnitTest/bin/Debug/SimpleInjector.dll

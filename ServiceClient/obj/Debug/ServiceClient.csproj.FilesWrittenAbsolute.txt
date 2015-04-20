@@ -1,0 +1,5 @@
+/Users/admin/Downloads/mac.poc-master/ServiceClient/obj/Debug/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/admin/Downloads/mac.poc-master/ServiceClient/bin/Debug/ServiceClient.dll.mdb
+/Users/admin/Downloads/mac.poc-master/ServiceClient/bin/Debug/ServiceClient.dll
+/Users/admin/Downloads/mac.poc-master/ServiceClient/obj/Debug/ServiceClient.dll
+/Users/admin/Downloads/mac.poc-master/ServiceClient/obj/Debug/ServiceClient.dll.mdb

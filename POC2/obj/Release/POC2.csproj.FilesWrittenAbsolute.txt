@@ -1,0 +1,11 @@
+/Users/Xavier/Projects/POC2/POC2/obj/Release/Xamarin.Mac,Version=v2.0.AssemblyAttribute.cs
+/Users/Xavier/Projects/POC2/POC2/obj/Release/ibtool/MainWindow.plist
+/Users/Xavier/Projects/POC2/POC2/obj/Release/ibtool/MainMenu.plist
+/Users/Xavier/Projects/POC2/POC2/obj/Release/ibtool/MainWindow.nib
+/Users/Xavier/Projects/POC2/POC2/obj/Release/ibtool/MainMenu.nib
+/Users/Xavier/Projects/POC2/POC2/bin/Release/POC2.exe.mdb
+/Users/Xavier/Projects/POC2/POC2/bin/Release/POC2.exe
+/Users/Xavier/Projects/POC2/POC2/obj/Release/POC2.exe
+/Users/Xavier/Projects/POC2/POC2/obj/Release/POC2.exe.mdb
+/Users/Xavier/Projects/POC2/POC2/bin/Release/SimpleInjector.Diagnostics.dll
+/Users/Xavier/Projects/POC2/POC2/bin/Release/SimpleInjector.dll
